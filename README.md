@@ -8,7 +8,7 @@ Built with **n8n**, **Groq**, **PostgreSQL**, **Evolution API**, and **Docker**.
 
 # 🎥 Demo
 
-[![Watch the Demo](assets/op.mp4](/assets/op.mp4)
+[![Watch the Demo](assets/thumbnail.png)](/assets/thumbail.png)
 
 
 ---
