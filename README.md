@@ -8,9 +8,7 @@ Built with **n8n**, **Groq**, **PostgreSQL**, **Evolution API**, and **Docker**.
 
 # 🎥 Demo
 
-<video src="assets/Kooha-2026-06-19-21-54-28.mp4" controls width="100%"></video>
-
-> 📌 Replace `assets/demo.mp4` with your video file path once uploaded to the repo (commit it under an `assets/` folder so the relative path resolves).
+<video src="assets/op.mp4" controls width="100%"></video>
 
 ---
 
